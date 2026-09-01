@@ -1,0 +1,6 @@
+{
+  "name": "VoltTwin Synapse — Neural EV Telemetry & Anomaly Intelligence",
+  "description": "Physics-informed digital twin and cyber-physical energy anomaly detection platform for next-gen EV charging infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
